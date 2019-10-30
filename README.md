@@ -1,5 +1,5 @@
 
-# The Pocket Data Analysis List 🗂
+# The Pocket Data 101 List 🗂
 A small, but formidable, list of free resources for anyone interested in learning more about data. (Many thanks to [all the folks on Twitter who responded to my call for resources](https://twitter.com/radiomorillo/status/1189276210444079106?s=20) and shared the ones that appear in this list.)
 
 ---
