@@ -10,6 +10,7 @@ A small, but formidable, list of free resources for anyone interested in learnin
 - [Kaggle Online Data Science Courses](https://www.kaggle.com/learn/overview) by Kaggle.
   - [Intro to SQL Course](https://www.kaggle.com/learn/intro-to-sql)
 - [Learn SQL Bootcamp](https://devgym.oracle.com/pls/apex/dg/class/databases-for-developers-foundations.html) from Oracle. 
+- [Introduction to SQL](https://sqlbolt.com/) by SQLBolt.
 - [Introduction to Data Analysis Using Excel](https://www.edx.org/course/introduction-to-data-analysis-using-excel-5) on edX.
 - [SQL Tutorials (Basic to Advanced)](https://mode.com/sql-tutorial/) from Mode Analytics.
 - [SQL "Murder Mystery" Tutorial](http://mystery.knightlab.com/) from Knight Lab.
