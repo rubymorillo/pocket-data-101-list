@@ -6,19 +6,25 @@ A small, but formidable, list of free resources for anyone interested in learnin
 
 ## Online Courses, Tutorials, and Reference Material 👩🏽‍💻
 
-- [Introduction to Data Analysis Using Excel](https://www.coursera.org/learn/excel-data-analysis/) on Coursera.
-- [Introduction to Data Analysis Using Excel](https://www.edx.org/course/introduction-to-data-analysis-using-excel-5) on edX.
-- [Kaggle Online Data Science Courses](https://www.kaggle.com/learn/overview) by Kaggle.
-  - [Intro to SQL Course](https://www.kaggle.com/learn/intro-to-sql)
-- [Learn SQL Bootcamp](https://devgym.oracle.com/pls/apex/dg/class/databases-for-developers-foundations.html) from Oracle. 
+### Text-Based Content 📖
 - [Introduction to SQL](https://sqlbolt.com/) by SQLBolt.
 - [SQL Tutorials (Basic to Advanced)](https://mode.com/sql-tutorial/) from Mode Analytics.
 - [SQL "Murder Mystery" Tutorial](http://mystery.knightlab.com/) from Knight Lab.
-- [Intro to SQL](https://www.khanacademy.org/computing/computer-programming/sql) on Khan Academy.
 - [SQL Tutorial](https://www.w3schools.com/sql/) from W3 Schools.
 - [Wizard Zines: SQL](https://wizardzines.substack.com/archive) by Julia Evans.
 - [Analytics Academy](https://segment.com/academy/) by Segment.
+- [Kaggle Online Data Science Courses](https://www.kaggle.com/learn/overview) by Kaggle.
+  - [Intro to SQL Course](https://www.kaggle.com/learn/intro-to-sql)
+  
+### Video-Based Content 📼
+- [Introduction to Data Analysis Using Excel](https://www.coursera.org/learn/excel-data-analysis/) on Coursera.
+- [Introduction to Data Analysis Using Excel](https://www.edx.org/course/introduction-to-data-analysis-using-excel-5) on edX.
+- [Introduction to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827) by Udacity.
+- [Introduction to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201) by Udacity.
+- [Learn SQL Bootcamp](https://devgym.oracle.com/pls/apex/dg/class/databases-for-developers-foundations.html) from Oracle. 
+- [Intro to SQL](https://www.khanacademy.org/computing/computer-programming/sql) on Khan Academy.
+
 
 ---
 
-List compiled by [Stephanie Morillo](https://www.stephaniemorillo.co). Like this? Check out [the Pocket UX List](https://github.com/rubymorillo/pocket-ux-list).
+List compiled by [Stephanie Morillo](https://www.stephaniemorillo.co). Want more lists? Check out [the Pocket UX List](https://github.com/rubymorillo/pocket-ux-list).
