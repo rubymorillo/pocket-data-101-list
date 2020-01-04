@@ -15,6 +15,7 @@ A small, but formidable, list of free resources for anyone interested in learnin
 - [Analytics Academy](https://segment.com/academy/) by Segment.
 - [Kaggle Online Data Science Courses](https://www.kaggle.com/learn/overview) by Kaggle.
   - [Intro to SQL Course](https://www.kaggle.com/learn/intro-to-sql)
+ - [Metadata Basics](https://marciazeng.slis.kent.edu/metadatabasics/index.htm) by Marcia Lei Zeng, PhD.
   
 ### Video-Based Content 📼
 - [Introduction to Data Analysis Using Excel](https://www.coursera.org/learn/excel-data-analysis/) on Coursera.
