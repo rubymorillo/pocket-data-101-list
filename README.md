@@ -25,9 +25,9 @@ A small, but formidable, list of free resources for anyone interested in learnin
 - [Introduction to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201) by Udacity.
 - [Learn SQL Bootcamp](https://devgym.oracle.com/pls/apex/dg/class/databases-for-developers-foundations.html) from Oracle. 
 - [Intro to SQL](https://www.khanacademy.org/computing/computer-programming/sql) on Khan Academy.
-- [Data Literacy for All by Tableau](https://www.tableau.com/learn/data-literacy)
-- [Statistics Foundations 2](https://www.linkedin.com/learning/statistics-foundations-2)
-- [Statistics Foundations 3](https://www.linkedin.com/learning/statistics-foundations-3)
+- [Data Literacy for All](https://www.tableau.com/learn/data-literacy) by Tableau.
+- [Statistics Foundations 2](https://www.linkedin.com/learning/statistics-foundations-2) on LinkedIn Learning.
+- [Statistics Foundations 3](https://www.linkedin.com/learning/statistics-foundations-3) on LinkedIn Learning.
 
 
 ---
