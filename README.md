@@ -32,4 +32,4 @@ A small, but formidable, list of free resources for anyone interested in learnin
 
 ---
 
-List compiled by [Stephanie Morillo](https://www.stephaniemorillo.co/links). Want more lists? Check out [the Pocket UX List](https://github.com/rubymorillo/pocket-ux-list).
+List compiled by [Stephanie Morillo](https://www.stephaniemorillo.co/links). Found it useful? [Consider becoming a GitHub Sponsor!](https://www.github.com/sponsors/rubymorillo)
