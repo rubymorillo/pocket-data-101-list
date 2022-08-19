@@ -17,6 +17,7 @@ A small, but formidable, list of free resources for anyone interested in learnin
   - [Intro to SQL Course](https://www.kaggle.com/learn/intro-to-sql)
  - [Metadata Basics](https://marciazeng.slis.kent.edu/metadatabasics/index.htm) by Marcia Lei Zeng, PhD.
  - [How to Build Data Visualizations in Excel](https://stephanieevergreen.com/how-to/) by Stephanie Evergreen.
+ - [Learn SQL](https://www.scaler.com/topics/sql/) from Scaler Topics.
   
 ### Video-Based Content 📼
 - [Introduction to Data Analysis Using Excel](https://www.coursera.org/learn/excel-data-analysis/) on Coursera.
